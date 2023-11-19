@@ -1,6 +1,6 @@
 # fcc-survey-form
 
-It is a survey form project. The idea is from FreeCodeCamp, with the added knowledge from The Odin Project
+It is a survey form project. The idea is from FreeCodeCamp, with the added knowledge from The Odin Project.
 
 The project is functionally similar to the ones in FCC and fulfills the user stories.
 
